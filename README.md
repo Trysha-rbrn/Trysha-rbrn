@@ -1,1 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/Trysha-rbrn)
+[![Trifun](https://github-readme-stats.vercel.app/api?username=Trysha-rbrn)](https://github.com/Trysha-rbrn/github-readme-stats)
