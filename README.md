@@ -1,5 +1,8 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Trysha-rbrn&theme=dark)](https://git.io/streak-stats)
+# My Skills
+![My Skills](https://skillicons.dev/icons?i=cpp)
+# Programs that I use
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)
+# Github stats
+![Stats](https://github-readme-stats.vercel.app/api?username=trysha-rbrn&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Trifun](https://github-readme-stats.vercel.app/api?username=Trysha-rbrn&count_private=true&show_icons=true&&theme=tokyonight)](https://github.com/Trysha-rbrn/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trysha-rbrn&langs_count=6&layout=compact&hide=POV-Ray%20SDL)](https://github.com/Trysha-rbrn/github-readme-stats)
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=trysha-rbrn&layout=compact&theme=dark&hide=POV-Ray%20SDL)
