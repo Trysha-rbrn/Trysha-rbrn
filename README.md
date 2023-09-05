@@ -7,6 +7,8 @@
 <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" alt = "visualstudio" /><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=VS Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt = "vscode" />
   
 ### Github stats
-![Stats](https://github-readme-stats.vercel.app/api?username=trysha-rbrn&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Stats](https://github-readme-stats.vercel.app/api?username=trysha-rbrn&theme=dark&include_all_commits&ring_color=00cc66&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=trysha-rbrn&layout=compact&theme=dark&hide=POV-Ray%20SDL)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trysha)]
