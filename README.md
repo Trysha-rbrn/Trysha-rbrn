@@ -19,9 +19,9 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=trysha-rbrn&theme=dark&include_all_commits&ring_color=00cc66&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trysha)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Trysha-rbrn&theme=dark)
 
-
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trysha&theme=dark)
 
 <br>
 </div>
