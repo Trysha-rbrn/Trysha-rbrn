@@ -18,15 +18,6 @@
 ### Programs that I use
 <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=" alt = "visualstudio" /><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=VS Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" alt = "vscode" />
   
-<h2>Github stats</h2> 
-  
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=trysha-rbrn&layout=compact&theme=dark&hide=POV-Ray%20SDL)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=trysha-rbrn&theme=dark&include_all_commits&ring_color=00cc66&rank_icon=percentile&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Trysha-rbrn&theme=dark)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trysha&theme=dark)
-
-<br>
+### Metrics
+![Metrics](/github-metrics.svg)
 </div>
