@@ -35,12 +35,11 @@ jobs:
           plugin_leetcode_user: Trysha-rbrn
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: trysha
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time,languages, languages-graphs, editors, editors-graphs, os
-          plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: trysha
           plugin_anilist: yes
           plugin_anilist_limit: 4
           plugin_anilist_limit_characters: 20
