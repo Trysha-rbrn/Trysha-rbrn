@@ -30,9 +30,9 @@
 <a href = "https://steamcommunity.com/id/trifunekakotoradis/">
 <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt = "steam"/>
 </a>
-<h2 align="center">Streak</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Trysha-rbrn&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+
 <h2 align="center">Statistics</h2>
 
 ![Metrics](/github-metrics.svg)
+
 </div>
