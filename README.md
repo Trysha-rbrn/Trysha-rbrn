@@ -33,6 +33,8 @@
 
 <h2 align="center">Statistics</h2>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Trysha-rbrn&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ![Metrics](/github-metrics.svg)
 
 </div>
