@@ -8,8 +8,6 @@
 
 [![](https://wakatime.com/badge/user/1ec4a1b0-ab69-4a95-aeeb-b9322f380f8c.svg)](https://wakatime.com/@1ec4a1b0-ab69-4a95-aeeb-b9322f380f8c)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/746665913830604821)](https://discord.com/users/746665913830604821)
-
 <h2 align="center">My skills</h2>
 
 <img src = "https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=" alt = "cpp" />
@@ -34,7 +32,5 @@
 <h2 align="center">Statistics</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trysha-rbrn&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-![Metrics](/github-metrics.svg)
 
 </div>
