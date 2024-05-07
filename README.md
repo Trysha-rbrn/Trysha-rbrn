@@ -29,7 +29,10 @@
 <a href = "https://steamcommunity.com/id/trifunekakotoradis/">
 <img src = "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt = "steam"/>
 </a>
-
+<br>
+<a href = "https://facebook.com/trifunamx/">
+  <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "facebook"/>
+</a>
 <h2 align="center">Statistics</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Trysha-rbrn&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
