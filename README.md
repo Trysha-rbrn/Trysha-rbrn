@@ -2,7 +2,7 @@
 <h1>Hello!</h1>
 <p>Hello, everyone. I am <b>Trifun</b>, known as Trysha on the internet.
   
-  I am a <b>17</b>-year-old boy from Serbia who has a passion for programming.</p>
+  I am a <b>18</b>-year-old boy from Serbia who has a passion for programming.</p>
 
 ![](https://komarev.com/ghpvc/?username=trysha-rbrn)
 
